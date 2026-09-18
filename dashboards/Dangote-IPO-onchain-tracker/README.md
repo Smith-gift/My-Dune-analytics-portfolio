@@ -1,7 +1,7 @@
 # Dangote IPO Onchain Tracker (DPRI)
 
 ## Overview
-This dashboard tracks real, onchain participation in the Dangote Petroleum Refinery IPO, tokenized as DPRI and traded on Base blockchain via GetEquity's RWA platform.
+This dashboard tracks real, onchain participation in the Dangote Petroleum Refinery IPO, tokenized as DPRI and traded on Base blockchain via GetEquity's RWA platform. 
 
 ## What it tracks
 
@@ -27,3 +27,4 @@ https://dune.com/solomon_gift/onchain-tracker-for-dangote-refinery-ipo-dpri?them
 ## Methodology
 This onchain analysis is done on based blockchain where DPRI(tokenised dangote refinery IPO) is deployed.
 All data gotten directly from base blockchain
+DANGOE REFINERY IPO WAS LAUNCHED 14TH SEPTEMBER 2026
