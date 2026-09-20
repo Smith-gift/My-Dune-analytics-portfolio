@@ -18,4 +18,4 @@ https://dune.com/solomon_gift/nigeria-2027-presidential-election-polymarket-real
 
 ## Methodology
 Data was pulled from Polymarket's onchain contracts, tracking betting 
-volume, odds movement, and market participation.
+volume, odds movement, market participation and more.
