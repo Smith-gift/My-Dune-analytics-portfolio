@@ -4,4 +4,4 @@ SQL queries and dashboards built on Dune Analytics by Solomon Gift Amunde( Block
 ## Dashboards
 [Dangote IPO Onchain Tracker](./dashboards/Dangote-IPO-onchain-tracker/) — tracks onchain activity tied to the Dangote Refinery IPO
 
-- [Nigeria 2027 Presidential Election — Onchain Prediction Tracker](./dashboards/nigeria-2027-Presidential-election-polymarket-tracker/) — tracks Polymarket betting activity as a sentiment signal for the Nigerian presidential election
+[Nigeria 2027 Presidential Election — Onchain Prediction Tracker](./dashboards/nigeria-2027-Presidential-election-polymarket-tracker/) — tracks Polymarket betting activity as a sentiment signal for the Nigerian presidential election
