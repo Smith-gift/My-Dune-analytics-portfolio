@@ -14,7 +14,7 @@ https://dune.com/solomon_gift/nigeria-2027-presidential-election-polymarket-real
   prediction market on the Nigerian Presidential election don’t reflect the vote of the people, as people engage in this just for the fun of it
   and to make money.
 - we can also see from the analysis that less than 0.1% of the Nigerian population participates in this prediction market.
-- The majority(0ver 55%) of the users wager on Tinubu winning the election.
+- The majority(0ver 55%) of the users wager on Tinubu winning the election
 
 ## Methodology
 Data was pulled from Polymarket's onchain contracts, tracking betting 
