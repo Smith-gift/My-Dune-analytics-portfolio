@@ -28,5 +28,5 @@ https://dune.com/solomon_gift/cngn-analysis-on-5-deployed-chains?theme=dark&utm_
 
 ## Methodology
 Data was pulled from cNGN's onchain contract activity across the 5 
-supported chains, tracking transfer volume, unique wallet activity, 
+supported chains, tracking transfer volume, unique wallet activity, transaction growth, 
 and cross-chain distribution using Dune's decoded event tables.
