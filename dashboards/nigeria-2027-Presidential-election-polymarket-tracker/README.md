@@ -10,7 +10,7 @@ odds and volume shift over time as a proxy for public sentiment.
 https://dune.com/solomon_gift/nigeria-2027-presidential-election-polymarket-real-time-prediction-preformance-tracker?theme=dark&utm_source=share&utm_medium=copy&utm_campaign=dashboard
 
 ## Key Findings
-- This also aligns with my analysis on News Central TV https://www.facebook.com/share/v/1986Fe9Fqo/ dates on June 2026, where I emphasized that the results of the prediction market on the Nigerian Presidential election don’t reflect the vote of the people, as people engage in this just for the fun of it and to make money.
+- This also aligns with my analysis on News Central TV https://www.facebook.com/share/v/1986Fe9Fqo/ on June 2026, where I emphasized that the results of the prediction market on the Nigerian Presidential election don’t reflect the vote of the people, as people engage in this just for the fun of it and to make money.
 - we can also see from the analysis that less than 0.1% of the Nigerian population participates in this prediction market.
 - The majority(0ver 55%) of the users wager on Tinubu winning the election
 
