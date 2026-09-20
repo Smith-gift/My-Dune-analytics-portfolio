@@ -12,10 +12,10 @@ trends to give visibility into how the token is being used on-chain.
 - Polygon
 - Solana
 
-## Live Dashboard 1
+## Live Dashboard ( BSC vs Ethereum )
 https://dune.com/solomon_gift/cngn-onchain-activity-tracker?theme=dark&utm_source=share&utm_medium=copy&utm_campaign=dashboard
 
-## Live Dashboard 2
+## Live Dashboard ( Base, Bsc, Ethereum, Polygon, Solana )
 https://dune.com/solomon_gift/cngn-analysis-on-5-deployed-chains?theme=dark&utm_source=share&utm_medium=copy&utm_campaign=dashboard
 
 ## Key Findings
