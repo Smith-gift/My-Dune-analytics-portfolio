@@ -28,3 +28,33 @@ https://dune.com/solomon_gift/onchain-tracker-for-dangote-refinery-ipo-dpri?them
 This onchain analysis is done on based blockchain where DPRI(tokenised dangote refinery IPO) is deployed.
 All data gotten directly from base blockchain
 DANGOE REFINERY IPO WAS LAUNCHED 14TH SEPTEMBER 2026
+
+## Charts Screenshots
+
+![Overview](./DPRI-Price-DailyBuys.jpeg)
+
+*Daily Dangote Refinery IPO buys since IPO launch*
+
+
+![Overview](./DPRI-PriceStability-DailyBuys.jpeg)
+
+*Daily DPRI price action since IPO *
+
+
+![Overview](./DailyBuys.jpeg)
+
+*Total DPRI daily buys since IPO launch*
+
+
+![Overview](./TotalCngnSpentDaily.jpeg)
+
+*Total Cngn spent daily on DPRI purchase since IPO launch*
+
+
+![Overview](./UniqueUserbuys.jpeg)
+
+*Daily total of unique buyers since IPO launch*
+
+
+
+
