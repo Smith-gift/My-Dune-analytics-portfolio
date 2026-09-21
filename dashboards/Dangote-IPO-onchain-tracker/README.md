@@ -36,7 +36,7 @@ DANGOE REFINERY IPO WAS LAUNCHED 14TH SEPTEMBER 2026
 *Daily Dangote Refinery IPO buys since IPO launch*
 
 
-![Overview](./DPRI-PriceStability-DailyBuys.jpeg)
+![Overview](./DPRI-PriceStability-DailyBuy.jpeg)
 
 *Daily DPRI price action since IPO *
 
@@ -51,7 +51,7 @@ DANGOE REFINERY IPO WAS LAUNCHED 14TH SEPTEMBER 2026
 *Total Cngn spent daily on DPRI purchase since IPO launch*
 
 
-![Overview](./UniqueUserbuys.jpeg)
+![Overview](./UniqueUsersbuys.jpeg)
 
 *Daily total of unique buyers since IPO launch*
 
