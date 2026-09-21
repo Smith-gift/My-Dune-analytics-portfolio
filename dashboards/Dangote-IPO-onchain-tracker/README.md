@@ -29,7 +29,7 @@ This onchain analysis is done on based blockchain where DPRI(tokenised dangote r
 All data gotten directly from base blockchain
 DANGOE REFINERY IPO WAS LAUNCHED 14TH SEPTEMBER 2026
 
-## Charts Screenshots
+## Charts/Analysis Screenshots
 
 ![Overview](./DPRI-Price-DailyBuys.jpeg)
 
